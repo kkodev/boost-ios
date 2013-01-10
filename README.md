@@ -6,7 +6,7 @@
 
 #### **If you are lazy:**
 
-Grab pre-built framework from Dist folder.
+1. Grab pre-built framework from Dist folder (boost 1.52.0).
 
 <br/>
 
