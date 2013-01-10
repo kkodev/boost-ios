@@ -4,6 +4,12 @@
 
 <br/>
 
+#### **If you are lazy:**
+
+Grab pre-built framework from Dist folder.
+
+<br/>
+
 #### **To build please follow these simple steps:**
 
 1. Get yourself a nice cup of coffee (tea should do as well)

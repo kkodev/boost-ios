@@ -1549,7 +1549,7 @@
 				GCC_PREFIX_HEADER = "boost-ios/boost-ios-Prefix.pch";
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				HEADER_SEARCH_PATHS = "$(SRCROOT)";
-				SDKROOT = iphoneos6.0;
+				SDKROOT = iphoneos;
 			};
 			name = Release;
 		};
